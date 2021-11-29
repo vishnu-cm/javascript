@@ -1,0 +1,15 @@
+
+.centered {
+    position: fixed;
+    top: 9%;
+    left: 30%;
+  }
+
+div {
+    text-align: center;
+    background-color: gray;
+    width: 300px;
+    border: 1px solid rgb(143, 141, 141);
+    padding: 100px;
+    margin: 30px;
+  }
